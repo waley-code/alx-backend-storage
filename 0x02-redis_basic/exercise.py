@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Caching information about
-    function call history to redis
+    a function call history to redis
 """
 
 import redis
